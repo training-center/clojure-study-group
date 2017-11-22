@@ -2,6 +2,10 @@
 
 Repositório do grupo de estudos sobre Clojure e Programação Funcional do [Training Center](https://github.com/training-center/sobre).
 
+<p align="center">
+  <img src="assets/clojure-functional-training-center.png" alt="Logo do grupo de estudos de Clojure e Programação Funcional do Training Center">
+</p>
+
 ## Como funciona
 
 Este grupo se destina ao estudo da linguagem Clojure e o paradigma de programação Funcional.
