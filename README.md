@@ -29,3 +29,7 @@ Basta responder [este formulário](https://woliveiras.typeform.com/to/GMPv1z) pa
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
 - [sites](material/dir/sites.md)
+
+## Responsáveis
+
+Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@woliveiras`, `@lflimeira` ou `@kirmayr` no Slack do Training Center.
