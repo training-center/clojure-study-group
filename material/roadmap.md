@@ -9,11 +9,12 @@ Utilizaremos o livro [Clojure for the brave and true](https://www.braveclojure.c
 1. O que é Clojure
 1. Configurando o ambiente (instalando o JDK, Clojure e Leiningen)
 1. Conhecendo o REPL
-1. Hello World em Clojure (criando arquivos Clojure)
+1. Hello World (criando arquivos Clojure)
 1. Criando projetos e rodando com o Lein
+1. Tipos primitivos
 1. Controle de fluxo
-1. Tipos
 1. Criando funções
+1. Estruturas de dados(Maps, Collections, Lists, Vectors, etc)
 1. Loops e recursão
 
 ## Avançando nos estudos
@@ -21,17 +22,20 @@ Utilizaremos o livro [Clojure for the brave and true](https://www.braveclojure.c
 1. Utilizando funções da linguagem
 1. Diferentes comportamentos para uma função com aridade
 1. Funções anônimas
-1. Funções importantes da linguagem Clojure
-1. Criando um projeto em Clojure
+1. Funções importantes da linguagem
+1. Criando um projeto
 1. Utilizando libs em seus projetos
-1. Organizando um projeto Clojure
+1. Organizando um projeto
+1. Interagindo com as funções do Java 
 1. Criando pacotes
 
 ## Subindo na vida
 
 1. Expressões regulares
-1. Macros
+1. Átomos
+1. Protocolos e Datatypes
+1. Multimétodos e hierarquias
 1. Concorrência e Paralelismo
-1. Atomos
-1. Async
-1. Interagindo com a JVM
+1. Macros
+1. Utilizando Clojure em projetos Java
+1. Utilizando Clojure em projetos C#
