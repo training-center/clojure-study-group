@@ -6,3 +6,4 @@
 - [eventos](dir/events.md)
 - [newsletters](dir/newsletters.md)
 - [sites](dir/sites.md)
+- [artigos](dir/articles.md)
