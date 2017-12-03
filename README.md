@@ -29,6 +29,7 @@ Basta responder [este formulário](https://woliveiras.typeform.com/to/GMPv1z) pa
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
 - [sites](material/dir/sites.md)
+- [artigos](material/dir/articles.md)
 
 ## Responsáveis
 
