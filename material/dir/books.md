@@ -9,6 +9,7 @@
 
 
 ### Machile Learning
+
 * [Clojrue for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science)
 
 ### Web Development
@@ -17,6 +18,7 @@
 
 
 ### ClojureScript
+
 * [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript)
 
 \* Melhor livro para quem já tem contexto de Clojure ou Lisp.
