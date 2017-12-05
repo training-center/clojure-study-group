@@ -15,9 +15,9 @@ Utilizaremos o livro [Clojure for the brave and true](https://www.braveclojure.c
 1. Controle de fluxo
 1. Criando funções
 1. Estruturas de dados(Maps, Collections, Lists, Vectors, etc)
-1.1 Lists (first, take, nth, pop, conj)
-1.1 Vectors (conj, map, filter, reduce)
-1.1 Maps(get, get-in, contains?, assoc, find)
+    1. Lists (first, take, nth, pop, conj)
+    1. Vectors (conj, map, filter, reduce)
+    1. Maps(get, get-in, contains?, assoc, find)
 1. Loops e recursão
 
 ## Avançando nos estudos
