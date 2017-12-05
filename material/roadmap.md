@@ -6,6 +6,7 @@ Utilizaremos o livro [Clojure for the brave and true](https://www.braveclojure.c
 
 ## Intro
 
+1. O que é programação funcional?
 1. O que é Clojure
 1. Configurando o ambiente (instalando o JDK, Clojure e Leiningen)
 1. Conhecendo o REPL
