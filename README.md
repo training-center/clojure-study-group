@@ -10,7 +10,7 @@ Repositório do grupo de estudos sobre Clojure e Programação Funcional do [Tra
 
 Este grupo se destina ao estudo da linguagem Clojure e o paradigma de programação Funcional.
 
-Conforme [outros grupos de estudos](https://github.com/training-center/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos hangouts semanais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
+Conforme [outros grupos de estudos](https://github.com/training-center/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos hangouts quinzenais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
 
 ## Como participar
 
