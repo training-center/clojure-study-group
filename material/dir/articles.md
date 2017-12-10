@@ -6,6 +6,7 @@
 - [Começando com o cálculo lambda e a programação funcional](http://blog.caelum.com.br/comecando-com-o-calculo-lambda-e-a-programacao-funcional-de-verdade/)
 - [An informal introduction to Lambda Calculus](https://medium.com/@Sudhagar/an-informal-introduction-to-lambda-calculus-51c637f35f7d)
 - [Lambda Calculus: The Y combinator in clojure](http://blog.klipse.tech/lambda/2016/08/07/pure-y-combinator-clojure.html)
+- [A Taste of the λ Calculus](http://www.flyingmachinestudios.com/programming/a-taste-of-the-lambda-calculus/)
 - [Lisp](https://pt.wikipedia.org/wiki/Lisp)
 - [Clojure](https://pt.wikipedia.org/wiki/Clojure)
 - [Programação Funcional](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
