@@ -10,3 +10,4 @@
 - [Lambda Calculus: The Y combinator in clojure](http://blog.klipse.tech/lambda/2016/08/07/pure-y-combinator-clojure.html)
 - [Lisp](https://pt.wikipedia.org/wiki/Lisp)
 - [Clojure](https://pt.wikipedia.org/wiki/Clojure)
+- [Programação Funcional](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
