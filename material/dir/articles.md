@@ -11,3 +11,4 @@
 - [Lisp](https://pt.wikipedia.org/wiki/Lisp)
 - [Clojure](https://pt.wikipedia.org/wiki/Clojure)
 - [Programação Funcional](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
+- [Turing Completude](https://pt.wikipedia.org/wiki/Turing_completude)
