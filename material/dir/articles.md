@@ -19,3 +19,5 @@
 - [Amazing LISP Books living again in Clojure](http://juliangamble.com/blog/2012/07/13/amazing-lisp-books-living-again-in-clojure/)
 - [Clojure - From the ground up basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types)
 	- Um artigo sobre tipos primitivos. Também contém informações sobre algumas estruturas de dados
+- [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+    - Uma visão geral de Design Patterns comparados com Java
