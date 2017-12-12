@@ -3,9 +3,10 @@
 ### Sobre a Linguagem:
 
 1. Básico: [Clojure for the brave and true](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
-2. Intermediário Básico: [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
-3. Intermediário Avançado\*: [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied)
-4. Avançado: [Mastering Clojure Macros](https://pragprog.com/book/cjclojure/mastering-clojure-macros)
+1. Básico: [Programming Clojure 2ed](https://pragprog.com/book/shcloj2/programming-clojure)
+1. Intermediário Básico: [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
+1. Intermediário Avançado\*: [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied)
+1. Avançado: [Mastering Clojure Macros](https://pragprog.com/book/cjclojure/mastering-clojure-macros)
 
 
 ### Machile Learning
