@@ -1,3 +1,4 @@
 ## Comunidades de Clojure
 
-- [brasil-clj](https://github.com/brasil-clj)
+- [clj-br](https://github.com/clj-br)
+- [clojurians](http://clojurians.net/)

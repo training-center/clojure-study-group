@@ -1,5 +1,9 @@
 ## Livros sobre Clojure
 
+### Sobre programação funcional
+
+* [Structure and Interpretation of Computer Programs(SICP)](https://mitpress.mit.edu/sicp/)
+
 ### Sobre a Linguagem:
 
 1. Básico: [Clojure for the brave and true](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
@@ -11,7 +15,7 @@
 
 ### Machile Learning
 
-* [Clojrue for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science)
+* [Clojure for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science)
 
 ### Web Development
 * [Clojure Web Development Essentials](https://www.packtpub.com/application-development/clojure-web-development-essentials)
@@ -20,6 +24,13 @@
 
 ### ClojureScript
 
+* [ClojureScript: Up And Running](http://shop.oreilly.com/product/0636920025139.do)
+* [Clojure Cookbook](http://clojure-cookbook.com/)
 * [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript)
 
 \* Melhor livro para quem já tem contexto de Clojure ou Lisp.
+
+### Lisp
+
+* [On Lisp](http://www.paulgraham.com/onlisp.html)
+

@@ -28,6 +28,7 @@ Basta responder [este formulário](https://woliveiras.typeform.com/to/GMPv1z) pa
 - [cursos](material/dir/courses.md)
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
+- [videos](material/dir/videos.md)
 - [sites](material/dir/sites.md)
 - [artigos](material/dir/articles.md)
 
