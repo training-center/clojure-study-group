@@ -7,3 +7,4 @@
 - [Clojure Styleguide](https://github.com/bbatsov/clojure-style-guide)
 - [Clojure By Example](https://kimh.github.io/clojure-by-example/)
 - [Clojure CheatSheet](https://clojure.org/api/cheatsheet)
+- [Purely Functional](https://purelyfunctional.tv/)
