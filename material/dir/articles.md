@@ -11,6 +11,7 @@
 - [Clojure](https://pt.wikipedia.org/wiki/Clojure)
 - [Programação Funcional](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
 - [Turing Completude](https://pt.wikipedia.org/wiki/Turing_completude)
+- [An introduction to the basic principles of Functional Programming](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84)
 
 ### Clojure
 
